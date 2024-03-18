@@ -21,6 +21,7 @@ export default async function Page({ params }: { params: { id: string } }) {
   return (
     <main>
       <Breadcrumbs
+        
         breadcrumbs={[
           { label: 'Invoices', href: '/dashboard/invoices' },
           {
