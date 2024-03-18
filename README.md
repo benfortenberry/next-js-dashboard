@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard Bemo
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+https://next-js-dashboard-ruddy-chi.vercel.app/
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Built as part of the Learn Next.js course at https://nextjs.org/learn
+
+Demo purposes only 
+
+username admin@admin.com 
+password Vx35SZYH55zH 
+
+
